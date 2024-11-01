@@ -1,0 +1,1 @@
+{"api_endpoint":"https:\/\/api.snapcx.io\/avs\/v1\/validateAddress","global_api_endpoint":"https:\/\/api.snapcx.io\/avs\/v1\/validateGlobalAddress"}
